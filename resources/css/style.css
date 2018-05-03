@@ -344,9 +344,10 @@ img.mobile {
 	padding: 0  4rem 4rem 4rem;
 	display: flex;
 	flex-wrap: flex;
+  flex-direction: 2 column;
 	justify-content: space-between;
-  text-align: center;
   background-color: lightgray;
+  align-content: space-between;
 }
 
 .flex-course-items {
